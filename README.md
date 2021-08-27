@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @B100GH
-- 👀 I’m interested in Codeing, robotics, and engenering.
-- 🌱 I’m currently learning Python and developing for discord.
-- 💞️ I’m looking to collaborate on bots and stuff.
-- 📫 How to reach me on discord('B100#3685') or my website https://sites.google.com/view/b100sbots
+Hi i am B100GH I am on robotics teams. 
+I am learning python and prototypeing with arduinos and breadbords. 
+I want to learn java to program FTC robots.
