@@ -1,4 +1,7 @@
-Hi i am B100GH I am on robotics teams. 
-I am learning python and prototypeing with arduinos and breadbords. 
-I want to learn java to program FTC robots.
-Additionally i am using python to code discord bots and apps.
+### Hi I am B100
+
+- I am on the Nerds of the North FRC 568 & Tech Eagles FTC 18848.
+- I am learning python & web development.
+- I have worked on xxx python projects 
+
+# IIIIIIIIII there is too many IIIIIII
