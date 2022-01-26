@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Discord bots and CLI apps.**
 
-- 📫 How to reach me **B100#3685 on Discord.**
+- 📫 How to reach me **`B100@B100.dev`**
 
 - 📄 Know about my experiences [https://b100.dev/resume](https://b100.dev/resume)
 
