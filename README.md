@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Pygame, and Linux.**
 
-- 🧑‍💻🧑‍💻 I’m looking to collaborate on [FTC Robotics](https://github.com/West-Robotics/FtcRobotController)
+- 🤖 I’m looking to collaborate on [FTC Robotics](https://github.com/West-Robotics/FtcRobotController)
 
 - 🤝 I’m looking for help with **Learning app development.**
 
