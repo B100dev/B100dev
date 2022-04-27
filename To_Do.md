@@ -7,4 +7,4 @@
 - [ ] Portfolio 
 - [ ] Profile Updates
 - [ ] Add new skills to profile
-- [ ] 
+- [ ] Make a webpage using github pages
