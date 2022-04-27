@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Learning app development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/B100GH/](https://github.com/B100GH/)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/B100GH/)
 
-- 📝 I am going to start writing articles on [https://b100.dev/blog](https://b100.dev/blog)
+- 📝 I am going to start writing articles on [My Blig](https://b100.dev/blog)
 
 - 💬 Ask me about **Discord bots and CLI apps.**
 
 - 📫 How to reach me **`B100@B100.dev`**
 
-- 📄 Know about my experiences [https://b100.dev/resume](https://b100.dev/resume)
+- 📄 Know about my experiences [at my Resume](https://b100.dev/resume)
 
 - ⚡ Fun fact **I started coding using Lab View.**
 
